@@ -1,2 +1,2 @@
 # session_practice
-This is for my Git &amp; Github session (Veer)
+This is for my Git &amp; Github session
